@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rvf ./sub_directory/*
+touch ./oldtext.txt
